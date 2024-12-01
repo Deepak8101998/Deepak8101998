@@ -3,6 +3,35 @@
 
 <h3 align="center">Transforming Ideas into Seamless User Experiences</h3>
 
+<img align='left' height='220' style="margin-right:20px" src='./assets/firmware.svg' alt=''>
+
+```tsx
+import React from "react";
+
+const Profile = () => {
+  return {
+      name: "Kartik Kumar",
+      gender: "Male",
+      role: ["ML Engineer"],
+  }
+};
+
+export default Profile;
+```
+
+<img align='right' height='170' style="margin-left:20px" src='./assets/programming.svg' alt=''>
+
+```tsx
+(function repeat() {
+  eat();
+  sleep();
+  code();
+  learn();
+  repeat();
+})();
+```
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepakb19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakb19" height="30" width="40" /></a>
