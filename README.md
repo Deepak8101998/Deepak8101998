@@ -10,9 +10,9 @@ import React from "react";
 
 const Profile = () => {
   return {
-      name: "Kartik Kumar",
+      name: "Deepak Kumar",
       gender: "Male",
-      role: ["ML Engineer"],
+      role: ["Software Engineer"],
   }
 };
 
